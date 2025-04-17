@@ -1,4 +1,6 @@
-<h2 align="center">ଘ(੭*ˊᵕˋ)੭* ̀ˋ Erika Rocha ☆*:・ﾟ</h2>
+<h2 align="center"> ̀ˋ ₊˚⊹ ♡ Erika Rocha ♡ ⊹˚₊`</h2>
+
+<p align="center"> ────・✦ʚ♡ɞ✦・──── </p>
 
 <p align="center">Estudante de ADS | Fatec</p>
 
