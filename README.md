@@ -1,5 +1,4 @@
 # 👩🏻‍💻 Erika Rocha
-**`Desenvolvedora FullStack`**
 
 Cursando Análise e Desenvolvimento de Sistemas em Fatec São Paulo
 
