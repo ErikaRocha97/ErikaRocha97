@@ -6,7 +6,7 @@
 
 ---
 
-### 🤖 Linguagens e Tecnologias . ݁₊ ⊹ . ݁˖ . ݁
+### ⊹₊⟡⋆ Linguagens e Tecnologias ₊ °✦ ‧ ‧ ₊ ˚✧
 
 <img 
     align="left" 
@@ -59,7 +59,7 @@
 <br/>
 <br/>
 
-### 📊 Estatísticas . ݁₊ ⊹ . ݁˖ . ݁
+### ⊹₊⟡⋆ Estatísticas ₊ °✦ ‧ ‧ ₊ ˚✧
 
 <p>
 
