@@ -1,6 +1,6 @@
-# 👩🏻‍💻 Erika Rocha
+<h2 align="center">ଘ(੭*ˊᵕˋ)੭* ̀ˋ Erika Rocha ☆*:・ﾟ</h2>
 
-Estudante de Análise e Desenvolvimento de Sistemas na Fatec São Paulo
+<p align="center">Estudante de ADS | Fatec</p>
 
 ---
 
