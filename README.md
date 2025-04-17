@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Erika Rocha
 
-Cursando Análise e Desenvolvimento de Sistemas em Fatec São Paulo
+Estudante de Análise e Desenvolvimento de Sistemas na Fatec São Paulo
 
 ---
 
