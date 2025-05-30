@@ -1,6 +1,4 @@
-<h2 align="center"> ̀ˋ ₊˚⊹ ♡ Erika Rocha ♡ ⊹˚₊`</h2>
-
-<p align="center"> ────・✦ʚ♡ɞ✦・──── </p>
+<h2 align="center">Erika Rocha</h2>
 
 <p align="center">Estudante de ADS | Fatec</p>
 
